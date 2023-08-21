@@ -17,7 +17,7 @@ int main(){
     std::cout<<decimal<<'\n';
 
     //double is for printing decimals
-    double GPA=3.1;
+    double GPA=3.12;
     std::cout<<GPA<<'\n';
 
 
