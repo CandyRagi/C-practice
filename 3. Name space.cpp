@@ -1,5 +1,9 @@
 #include<iostream>
 
+//Namespace = provides a solution for using same variable with two different values
+
+
+
 namespace first{
     int x = 1;
     }
@@ -20,6 +24,5 @@ int main(){
     std::cout<<x<<'\n';
     
     return 0;
-
-
 }
+
