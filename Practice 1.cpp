@@ -9,7 +9,6 @@ namespace second{
 }
 
 int main(){
-
     int x=3;
     std::cout<<"This is main x "<<x<<'\n';
     std::cout<<"This is first x "<<first::x<<'\n';
