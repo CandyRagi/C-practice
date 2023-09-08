@@ -27,10 +27,4 @@ int main()
     cout<<"The amount in coins is "<<tonnie<<" tonnie "<<loonie<<" lonnie "<<quater<<" quater "<<dime<<" dime "<<nickel<<" nickel "<<penny<<" penny "<<endl;
 
     return 0;
-
-
-    
-
-
-
 }
