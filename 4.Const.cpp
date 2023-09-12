@@ -4,18 +4,17 @@ using namespace std;
 
 namespace first{
 
-    int x=1;
+    const int x=3;
+
+    // int x=7;
+
 }
 
 int main()
 {
-    float x=3.5;
-
-    cout<<x<<endl;
+    const int x = 5;
 
     cout<<first::x<<endl;
 
     return 0;
-
-    
 }
